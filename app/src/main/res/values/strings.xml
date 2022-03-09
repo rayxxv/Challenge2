@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Challenge2</string>
     <string name="search">Cari Layanan, Makanan, &amp; Tujuan</string>
+    <string name="bayar">Bayar</string>
+    <string name="isi_saldo">Isi Saldo</string>
+    <string name="eksplore">Eksplore</string>
 </resources>
